@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+venv/
+ENV/
+env/
+temp_downloads/
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
